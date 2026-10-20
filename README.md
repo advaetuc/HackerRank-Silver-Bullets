@@ -24,9 +24,9 @@ I arrange all my code strictly by domain hierarchies so everything is intuitive 
 
 ```text
 HackerRank-Silver-Bullets/
-└── 🐍 python/
-    └── 📁 basics/
-        ├── 🔤 string/          # Formatting, slicing, parsing, and regex logic
-        ├── 📐 mathematics/     # Algebra, floating-point precision, and numerical logic
-        ├── 📊 data_structures/ # Arrays, dictionaries, sets, and tuple manipulation
-        └── 🛠️ control_flow/     # Iterators, conditionals, and functional helpers
+├── 🐍 python/
+│   ├── 🔤 strings/              # Formatting, slicing, parsing, and regex logic
+│   └── 📐 mathematics/          # Algebra, floating-point precision, and numerical logic
+└── 🧪 tests/
+    └── main.py                  # Test entry point
+```
